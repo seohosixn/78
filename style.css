@@ -1,10 +1,10 @@
 body {
   font-family: sans-serif;
-  background-color: #eeeeee;
+  background-color: #0fbe0f;
 }
 
 .file-upload {
-  background-color: #ffffff;
+  background-color: #21b892;
   width: 600px;
   margin: 0 auto;
   padding: 20px;
@@ -14,7 +14,7 @@ body {
   width: 100%;
   margin: 0;
   color: #fff;
-  background: #1FB264;
+  background: #28724b;
   border: none;
   padding: 10px;
   border-radius: 4px;
